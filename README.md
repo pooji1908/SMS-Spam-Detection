@@ -5,8 +5,4 @@ TF-IDF Vectorizer: Converts text into numerical features based on term frequency
 
 Porter Stemmer: Reduces words to their root forms to improve model generalization.
 
-Model	                    Accuracy
-Logistic Regression	       96.68%
-Multinomial Naïve Bayes  	 97.30%
-Support Vector Machine	   98.47%
-Decision Tree	             96.68%
+
